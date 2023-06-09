@@ -1,0 +1,42 @@
+Lista de Exercícios de Vetores e Matrizes (4 pontos)
+
+Salve os programas criados em arquivos separados no formato .cpp.
+
+1. Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. O programa deve executar os seguintes passos:
+
+(a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7.
+
+(b) Armazene em uma variável inteira (simples) a soma entre os valores das posições A[0], A[1] e A[5] do vetor e mostre na tela esta soma.
+
+(c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100. 
+
+(d) Mostre na tela cada valor do vetor A.
+
+Comente em seu código ( // ) cada passo da resolução do Exercício 1
+
+2. Elabore um programa que leia um conjunto de 5 números reais, armazenando-os em um vetor A. Em seguida, calcule o quadrado dos componentes deste vetor, e armazene o resultado em um vetor B. Imprima os dois vetores.
+
+3. Declare uma Matriz 5 x 5. Preencha com 1 a diagonal principal e com 0 os demais elementos. Escreva ao final a matriz obtida.
+
+4. Leia uma Matriz 4 x 4, imprima a matriz e retorne a localização (linha e a coluna) do maior valor.
+
+5. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão na diagonal principal
+
+6. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão acima da diagonal principal.
+
+7. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão abaixo da diagonal principal.
+
+8. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão na diagonal secundaria.
+
+9. Leia uma matriz de 3 x 3 elementos. Calcule e imprima a sua transposta.
+
+10. Faça um programa que permita ao usuário entrar com uma matriz de 3 x 3 números inteiros. Em seguida, gere um array unidimensional pela soma dos números de cada coluna da matriz e mostre na tela esse array. Por exemplo, a matriz:
+
+5 -8  10
+1  2  15
+25 10 7
+
+
+Deve-se gerar um vetor, onde cada posição é a soma das colunas da matriz. A primeira posição será 5 + 1 + 25, e assim por diante:
+ 
+31 4 3 
